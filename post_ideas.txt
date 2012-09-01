@@ -1,0 +1,13 @@
+NZ 'travelling salesman' - North and South Island
+Where's wally
+UK Postcode stuff 
+Hadoop - Common Crawl analysis
+Pricing
+Transition matrix stability - eigen decomp. 
+GGplot - Grid SVG (All of the interactive R plots)
+D3 - slickgrid table filtering
+JE Stats
+D3 slider animation
+Fisheries stuff
+SPARQL example
+UK gov data - treasury spending
